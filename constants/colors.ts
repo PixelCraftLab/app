@@ -1,0 +1,21 @@
+export default {
+  dark: {
+    background: '#000000',
+    surface: '#1A1A1A',
+    surfaceLight: '#2A2A2A',
+    primary: '#00D4FF',
+    primaryDark: '#00A3CC',
+    secondary: '#7C3AED',
+    accent: '#10B981',
+    warning: '#F59E0B',
+    error: '#EF4444',
+    success: '#10B981',
+    text: '#FFFFFF',
+    textSecondary: '#A0A0A0',
+    textMuted: '#666666',
+    border: '#333333',
+    borderLight: '#404040',
+    cardBg: '#141414',
+    inputBg: '#1F1F1F',
+  },
+};
